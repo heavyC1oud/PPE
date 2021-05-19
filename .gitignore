@@ -4,3 +4,4 @@ PPE Debug.launch
 .project
 Debug
 /.settings
+/src/.vscode
